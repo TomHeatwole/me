@@ -1,3 +1,25 @@
+body {
+  background-color: black;
+}
+
 h1 {
-	color: blue;
+  color: #49fb35;
+  font-size: 124pt;
+  margin-bottom: 0px;
+  font-weight: normal;
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#link {
+  font-size: 75pt;
+  padding-right: 40pt;
+  display: inline-block;
+  cursor: auto;
+}
+
+#buttons {
+  text-align: center; 
+  color: white;
+  display: block;
 }
